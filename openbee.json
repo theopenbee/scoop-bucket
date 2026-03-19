@@ -1,0 +1,21 @@
+{
+    "version": "0.0.1-test.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/theopenbee/openbee/releases/download/v0.0.1-test.1/openbee-0.0.1-test.1-windows-amd64.zip",
+            "bin": [
+                "openbee.exe"
+            ],
+            "hash": "6de945dd6bf66e609e9776fef5aff5505f72b8f7f72ac61660d82c3c7fed4927"
+        },
+        "arm64": {
+            "url": "https://github.com/theopenbee/openbee/releases/download/v0.0.1-test.1/openbee-0.0.1-test.1-windows-arm64.zip",
+            "bin": [
+                "openbee.exe"
+            ],
+            "hash": "e518301f9d52aa2c0b292844366a61af4a47330e11ade1320d8b6ef12f9b5846"
+        }
+    },
+    "homepage": "https://github.com/theopenbee/openbee",
+    "description": "OpenBee 核心服务"
+}
