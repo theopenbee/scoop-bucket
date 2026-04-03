@@ -1,21 +1,21 @@
 {
-    "version": "0.0.16",
+    "version": "0.0.17",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/theopenbee/openbee/releases/download/v0.0.16/openbee-0.0.16-windows-amd64.zip",
+            "url": "https://github.com/theopenbee/openbee/releases/download/v0.0.17/openbee-0.0.17-windows-amd64.zip",
             "bin": [
                 "openbee.exe"
             ],
-            "hash": "f6dd71605bc90ffe3d55bce6c601a7ecaccaa64f2f3edf6b2b7af4ddd7c4a48c"
+            "hash": "a469308bf3b17a39271c8527a71538f9c13ec74b104d32005b1c1cd8dd8d9ab3"
         },
         "arm64": {
-            "url": "https://github.com/theopenbee/openbee/releases/download/v0.0.16/openbee-0.0.16-windows-arm64.zip",
+            "url": "https://github.com/theopenbee/openbee/releases/download/v0.0.17/openbee-0.0.17-windows-arm64.zip",
             "bin": [
                 "openbee.exe"
             ],
-            "hash": "e4b27fc35006cedb2b303606e5cb1f29669f1c6e0adb1b08b608e1cf45cbfda1"
+            "hash": "ab7f3db23829ec9bd99b13f509ee0b013fe34ded68666fc621961b1779355c81"
         }
     },
     "homepage": "https://github.com/theopenbee/openbee",
-    "description": "OpenBee 核心服务"
+    "description": "OpenBee core service"
 }
