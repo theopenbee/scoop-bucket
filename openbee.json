@@ -6,14 +6,14 @@
             "bin": [
                 "openbee.exe"
             ],
-            "hash": "34004a97494ace13d2b13070822648ce425e0e0b29bee369c2e52d15eaab948f"
+            "hash": "9cffe11ec9ad44ce7de07883b289c8231c7f525407388d5e089371601c510b65"
         },
         "arm64": {
             "url": "https://github.com/theopenbee/openbee/releases/download/v0.0.18/openbee-0.0.18-windows-arm64.zip",
             "bin": [
                 "openbee.exe"
             ],
-            "hash": "15ffd7ba0642577c71bc2e529fb8a686e2048f08973a37fa69441ddca66d643a"
+            "hash": "7cde970089eb7037c66902ff635360401b5397d076b8f135b5881b051a23113b"
         }
     },
     "homepage": "https://github.com/theopenbee/openbee",
