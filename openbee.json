@@ -1,19 +1,19 @@
 {
-    "version": "0.0.21",
+    "version": "0.0.22",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/theopenbee/openbee/releases/download/v0.0.21/openbee-0.0.21-windows-amd64.zip",
+            "url": "https://github.com/theopenbee/openbee/releases/download/v0.0.22/openbee-0.0.22-windows-amd64.zip",
             "bin": [
                 "openbee.exe"
             ],
-            "hash": "21adfdc0a4b452aae3a3a41d11ac1eda379605837085e932edf46ede7944acf8"
+            "hash": "81a544118b84eea4586dff0388f23ffb7a5f9f9ffe1fc372fe3afdacf8f4c5d2"
         },
         "arm64": {
-            "url": "https://github.com/theopenbee/openbee/releases/download/v0.0.21/openbee-0.0.21-windows-arm64.zip",
+            "url": "https://github.com/theopenbee/openbee/releases/download/v0.0.22/openbee-0.0.22-windows-arm64.zip",
             "bin": [
                 "openbee.exe"
             ],
-            "hash": "2859b9fe177d96ed7d206ee460aeca96083faee02e1dbfe5fc12ac4d3e4fd598"
+            "hash": "a78fe02ea5d4dd8917cd099e1d5a4fa3e42839718e31f14169a21354e681f9c9"
         }
     },
     "homepage": "https://github.com/theopenbee/openbee",
