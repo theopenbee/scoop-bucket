@@ -1,16 +1,16 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Desktop app with the OpenBee server built in",
   "homepage": "https://github.com/theopenbee/openbee",
   "license": "AGPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/theopenbee/openbee/releases/download/v1.0.1/openbee-desktop-1.0.1-windows-amd64.exe#/OpenBee.exe",
-      "hash": "cf221b9069a6606938031300b479a42d42588c9dabe973b6d03d200be0ed7987"
+      "url": "https://github.com/theopenbee/openbee/releases/download/v1.0.2/openbee-desktop-1.0.2-windows-amd64.exe#/OpenBee.exe",
+      "hash": "da98dffca18e5cff7fd44997bf9f65713359686dc3e029d716a98d50feab00fa"
     },
     "arm64": {
-      "url": "https://github.com/theopenbee/openbee/releases/download/v1.0.1/openbee-desktop-1.0.1-windows-arm64.exe#/OpenBee.exe",
-      "hash": "2c1534643e56d5e8b96248590e68f03fcbe8435d5d93a78d29c4bb6a1ddccc06"
+      "url": "https://github.com/theopenbee/openbee/releases/download/v1.0.2/openbee-desktop-1.0.2-windows-arm64.exe#/OpenBee.exe",
+      "hash": "dabdf3d742ce97b7fb7145d23bb4a9c48fb5d17d142a2644d927b6f3720f2633"
     }
   },
   "shortcuts": [
